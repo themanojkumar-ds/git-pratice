@@ -11,7 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    name = input("Enter your name:")
-    print(f"Hello {name}!")
+    # some awesome features for feature-1 branch
+    name = input("Enter you name:")
+    print_hi(name)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
