@@ -12,6 +12,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     # some awesome features for feature-1 branch
+    # make some new change in main
     name = input("Enter you name:")
     print_hi(name)
 
