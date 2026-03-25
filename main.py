@@ -13,6 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     # some awesome features for feature-1 branch
     # make some new change in main
+    # this message for raising merge conflicts
     name = input("Enter you name:")
     print_hi(name)
 
